@@ -2,6 +2,8 @@
 
 This repository contains a personal portfolio website built with Vite, React and TypeScript. The project includes TailwindCSS and several reusable UI components.
 
+*Site link exemple* (https://portifolio-chi-eight-39.vercel.app/)
+
 ## Features
 
 - Vite-powered React + TypeScript setup
